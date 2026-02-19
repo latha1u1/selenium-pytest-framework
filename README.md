@@ -70,6 +70,4 @@ Docker support
 
 Parallel execution
 
-👩‍💻 Author
 
-Latha C
